@@ -11,5 +11,6 @@ public class GitObject {
 
     public void setNumber(int n) {
         num = n;
+        System.out.println("Hello");
     }
 }
